@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://https://el-rincon-del-front-end.netlify.app//sitemap.xml

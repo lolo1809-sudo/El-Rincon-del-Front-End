@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/</loc>
+      <priority>1.0</priority>
+      <changefreq>weekly</changefreq>
+   </url>
+   
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/documentaciones</loc>
+      <priority>0.9</priority>
+   </url>
+
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/roadmap</loc>
+      <priority>0.9</priority>
+   </url>
+
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/consejos</loc>
+      <priority>0.9</priority>
+   </url>
+
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/inputs</loc>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/buttons</loc>
+      <priority>0.8</priority>
+   </url>
+
+    <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/seleccion</loc>
+      <priority>0.8</priority>
+   </url>
+
+    <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/modales</loc>
+      <priority>0.8</priority>
+   </url>
+
+    <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/navegacion</loc>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/cards</loc>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/formularios</loc>
+      <priority>0.8</priority>
+   </url>
+    
+    <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/tipografias</loc>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/juegos</loc>
+      <priority>0.8</priority>
+   </url>
+
+    <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/paginas</loc>
+      <priority>0.8</priority>
+   </url>
+
+    <url>
+      <loc>https://el-rincon-del-front-end.netlify.app/catalogo/favoritos</loc>
+      <priority>0.7</priority>
+   </url>
+</urlset>

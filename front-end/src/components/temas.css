@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* -------------- BARRA DE SCROLL ----------------*/
+
+@layer base {
+  html {
+    /*Barra de scroll*/
+    color-scheme: dark;
+    scrollbar-width: thin;
+    scrollbar-color: #a0b800 #121212;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    /*Color oscuro por defecto*/
+    background: var(--bg-body--inicio);
+    color: var(--text-primary);
+    min-height: 100vh;
+  }
+}
+
+/* ------------------- MODO OSCURO ---------------*/
+:root {
+  /* Fondo */
+  --bg-body: radial-gradient(circle at center, #1a1a1a 0%, #18181b 100%);
+  --bg-body-2: #000000;
+  --bg-body--inicio: radial-gradient(circle at center, #2c2c2c 0%, #000000 100%);
+  --bg-card: #0a0a0a;
+  --bg-scrollbar: #000;
+
+  /* Textos */
+  --text-primary: #fff;
+  --text-secondary: #888;
+  --text-gradient-start: #ffffff;
+
+  /* Bordes y UI */
+  --border-color: #222;
+  --shadow-card: 0 10px 30px rgba(0, 0, 0, 0.5);
+  --glass-bg: rgba(10, 10, 10, 0.8);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --input-bg: #161616;
+
+  /* Tu color Acento */
+  --accent-color: #a0b800;
+}
