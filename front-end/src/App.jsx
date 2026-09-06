@@ -91,7 +91,7 @@ const Inicio = () => (
 // 3. Configuración del Enrutador
 export default function App() {
   return (
-    <BrowserRouter basename="/El-Rincon-del-Front-End">
+    <BrowserRouter>
       <AnalyticsTracker />
       <Routes>
         <Route path="/" element={<Inicio />} />
